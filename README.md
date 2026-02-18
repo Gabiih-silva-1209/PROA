@@ -7,7 +7,7 @@
 
 Este repositório foi criado com o objetivo de desenvolver e testar a estrutura base de uma página em HTML.
 
-O projeto está sendo construído de forma gradual, com foco na aplicação de boas práticas relacionadas à organização do código, utilização adequada de elementos semânticos e estruturação limpa e eficiente do documento.
+O projeto está sendo construído de forma gradual,de acordo com os conhecimentos adquiridos no SENAI e no PROA com foco na aplicação de boas práticas relacionadas à organização do código, utilização adequada de elementos semânticos e estruturação limpa e eficiente do documento.
 
 ## 🎯 Objetivos
 
